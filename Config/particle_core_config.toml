@@ -1,0 +1,17 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+disableParticles = false
+maxParticlesPerSheet = 16384
+particleRenderDistanceMultiplier = 1.0
+asynchronousTicking = true
+cullingBlacklist = [  ]
+cullingBehavior = "AGGRESSIVE"
+reduceAllChance = 0.0
+reduceDecreasedChance = 0.0
+turnOffPotionParticlesV2 = [
+    "NONE"
+]
+
+[byTypeReductions]
+"minecraft:bubble_column_up" = 0.03676470588235294
+"minecraft:current_down" = 0.0392156862745098

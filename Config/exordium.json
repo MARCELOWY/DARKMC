@@ -1,0 +1,76 @@
+{
+  "configVersion": 3,
+  "pollRate": 20,
+  "chatSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "debugScreenSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": false
+  },
+  "hotbarSettings": {
+    "enabled": true,
+    "maxFps": 15,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "experienceSettings": {
+    "enabled": false,
+    "maxFps": 5,
+    "forceBlend": true,
+    "forceUpdates": true
+  },
+  "healthSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "scoreboardSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "tablistSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "vignetteSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": false
+  },
+  "crosshairSettings": {
+    "enabled": false,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "bossbarSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "xaerosMinimapSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": true,
+    "forceUpdates": false
+  },
+  "paperdollSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": false
+  }
+}

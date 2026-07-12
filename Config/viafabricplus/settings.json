@@ -1,0 +1,7 @@
+{
+  "general": {
+    "multiplayer_screen_button_orientation": "left_bottom",
+    "add_server_screen_button_orientation": "left_top",
+    "direct_connect_screen_button_orientation": "left_top"
+  }
+}

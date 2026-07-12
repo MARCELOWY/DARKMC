@@ -1,0 +1,11 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+  "_comment": "Before changing anything, see https://github.com/Patbox/EntityViewDistance#configuration",
+  "mode": "both",
+  "entityViewDistance": {
+    "minecraft:armor_stand": 32,
+    "minecraft:item_frame": 32,
+    "minecraft:glow_item_frame": 32,
+    "minecraft:painting": 32
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "enabled": {
+    "value": "ON"
+  },
+  "showHudFps": {
+    "value": "OFF"
+  },
+  "downscale": {
+    "value": "OFF"
+  },
+  "fastFboBlit": {
+    "value": "ON"
+  },
+  "numberOfPasses": 10,
+  "maxFps": 15,
+  "screenMaxFps": 5,
+  "map": {
+    "hand": {
+      "enabled": {
+        "value": "AUTO"
+      }
+    },
+    "misc_overlays": {
+      "enabled": {
+        "value": "AUTO"
+      }
+    },
+    "crosshair": {
+      "enabled": {
+        "value": "AUTO"
+      }
+    },
+    "spectator_menu": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "hotbar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "armor_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "health_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "food_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "air_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "mount_health": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "info_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "experience_level": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "held_item_tooltip": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "spectator_tooltip": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "mob_effects": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "boss_bar": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "sleep": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "demo_timer": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "scoreboard": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "overlay_message": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "title_and_subtitle": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "chat": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "player_list": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "subtitles": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "_unknown_": {
+      "enabled": {
+        "value": "ON"
+      }
+    },
+    "debug_overlay": {
+      "enabled": {
+        "value": "ON"
+      }
+    }
+  }
+}

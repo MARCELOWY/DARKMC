@@ -1,0 +1,11 @@
+{
+  "frameQueueSize": 2,
+  "windowMode": 0,
+  "advCulling": 1,
+  "indirectDraw": true,
+  "uniqueOpaqueLayer": true,
+  "entityCulling": true,
+  "device": -1,
+  "ambientOcclusion": 0,
+  "backFaceCulling": true
+}
