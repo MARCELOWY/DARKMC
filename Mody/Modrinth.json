@@ -1,11 +1,27 @@
 [
   {
+    "name": "Xaero's Minimap",
+    "url": "https://modrinth.com/mod/xaeros-minimap"
+  },
+  {
+    "name": "Chat Animation",
+    "url": "https://modrinth.com/mod/chatanimation"
+  },
+  {
+    "name": "Player Health Indicators",
+    "url": "https://modrinth.com/mod/playerhealthindicators"
+  },
+  {
+    "name": "JourneyMap",
+    "url": "https://modrinth.com/mod/journeymap"
+  },
+  {
     "name": "AppleSkin",
     "url": "https://modrinth.com/mod/appleskin"
   },
   {
-    "name": "3D Skin Layers",
-    "url": "https://modrinth.com/mod/3dskinlayers"
+    "name": "Not Enough Animations",
+    "url": "https://modrinth.com/mod/not-enough-animations"
   },
   {
     "name": "Just Enough Items (JEI)",
@@ -16,19 +32,39 @@
     "url": "https://modrinth.com/mod/mouse-tweaks"
   },
   {
-    "name": "JourneyMap",
-    "url": "https://modrinth.com/mod/journeymap"
+    "name": "Chat Heads",
+    "url": "https://modrinth.com/mod/chat-heads"
   },
   {
-    "name": "Player Health Indicators",
-    "url": "https://modrinth.com/mod/playerhealthindicators"
+    "name": "Essential",
+    "url": "https://modrinth.com/mod/essential"
   },
   {
-    "name": "Chat Animation",
-    "url": "https://modrinth.com/mod/chatanimation"
+    "name": "BetterF3",
+    "url": "https://modrinth.com/mod/betterf3"
   },
   {
-    "name": "420HUD",
-    "url": "https://modrinth.com/mod/420hud"
+    "name": "More Chat History",
+    "url": "https://modrinth.com/mod/morechathistory"
+  },
+  {
+    "name": "Create",
+    "url": "https://modrinth.com/mod/create"
+  },
+  {
+    "name": "Dynamic Crosshair",
+    "url": "https://modrinth.com/mod/dynamiccrosshair"
+  },
+  {
+    "name": "Controlify",
+    "url": "https://modrinth.com/mod/controlify"
+  },
+  {
+    "name": "What Are They Up To",
+    "url": "https://modrinth.com/mod/what-are-they-up-to"
+  },
+  {
+    "name": "Better Ping Display",
+    "url": "https://modrinth.com/mod/better-ping-display-fabric"
   }
 ]
